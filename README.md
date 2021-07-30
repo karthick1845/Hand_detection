@@ -1,7 +1,6 @@
 # Hand detection
   This is an object detection model,where i worked with help of my organization mates.
   
-  Video demo - https://drive.google.com/file/d/1I8V_NlijGfLAWj5hRR6du5f08Wu-loHD/view?usp=sharing
 # Problem description
    The shutter machine in an Tea production factory seeking a problem by "whenever you pass garbage by hand to a sutter machine".
     
